@@ -9,4 +9,4 @@ Project Charter: Defines the project’s purpose, objectives, stakeholders, and 
 Project Scope: Outlines the project boundaries, deliverables, and what is included or excluded.\
 Project Schedule: Provides a timeline of tasks, milestones, and deadlines for completing the project.\
 Cost Estimate: Calculates the projected costs required to complete all project activities.\
-Resource Plan: Identifies the roles, responsibilities, and resources needed to execute the project.\
+Resource Plan: Identifies the roles, responsibilities, and resources needed to execute the project.
